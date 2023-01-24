@@ -20,8 +20,7 @@ group :jekyll_plugins do
 end
 
 # MUST UNCOMMENT FOR SITE TO WORK
-# ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
