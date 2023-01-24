@@ -1,0 +1,18 @@
+<!-- Adding Dropdown Functionality. Allows up to 9 dropdowns -->
+<div class="accordion accordion" id="accordionFlushExample">
+    {% for accordion in page.accordion %}
+        <div class="accordion-item">
+        <h2 class="accordion-header" id="flush-heading{{ forloop.index }}" style="margin-top: 0;">
+            <button class="accordion-button collapsed accordion{{ forloop.index }}" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapse{{ forloop.index }}" aria-expanded="false" aria-controls="flush-collapseOne">
+                {{ accordion.title }}
+            </button>
+        </h2>
+        <div id="flush-collapse{{ forloop.index }}" class="accordion-collapse collapse" aria-labelledby="flush-heading{{ forloop.index }}" data-bs-parent="#accordionFlushExample">
+            <div class="accordion-body" for="accordion{{ forloop.site }}">{{ accordion.content | markdownify }}</div>
+        </div>
+        </div>
+    {% endfor %}
+</div>
+
+
+

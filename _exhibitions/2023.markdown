@@ -1,0 +1,12 @@
+---
+
+layout: page  
+title: "2023" 
+permalink: /2023/  
+parent: Exhibitions
+has_children: true
+
+---
+# Other
+
+For bookings and using the exhibition space, please contact [dbe-technicalsupport@curtin.edu.au](mailto:dbe-technicalsupport@curtin.edu.au)

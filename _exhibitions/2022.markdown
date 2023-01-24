@@ -1,0 +1,12 @@
+---
+
+layout: page  
+title: "2022" 
+permalink: /2022/  
+parent: Exhibitions
+has_children: true
+
+---
+# Other
+
+For bookings and using the exhibition space, please contact [dbe-technicalsupport@curtin.edu.au](mailto:dbe-technicalsupport@curtin.edu.au)

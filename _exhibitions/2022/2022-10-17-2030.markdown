@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "20|30 Retrospective"
+date:   2022-10-17 08:30:54 +0800
+categories: Exhibitions
+permalink: /2030/  
+parent: "2022"
+grand_parent: Exhibitions
+
+carousel:
+    - image: /assets/images/exhibitions/2030/20220620_20_30_FASHION_&_INTERIOR_ARCHITECTURE_0003.jpg
+    - image: /assets/images/exhibitions/2030/20220620_20_30_FASHION_&_INTERIOR_ARCHITECTURE_0009.jpg
+    - image: /assets/images/exhibitions/2030/20220620_20_30_FASHION_&_INTERIOR_ARCHITECTURE_0013.jpg
+    - image: /assets/images/exhibitions/2030/20220620_20_30_FASHION_&_INTERIOR_ARCHITECTURE_0022.jpg
+    - image: /assets/images/exhibitions/2030/20220620_20_30_FASHION_&_INTERIOR_ARCHITECTURE_0024.jpg
+
+---
+
+
+# 20|30 Fashion and Interior Architecture 
+{: .mb-5}
+
+![20-30 Logo](/assets/images/exhibitions/2030/20-30_logo.png)
+
+<p> 20|30 Fashion and Interior Architecture is a Curtin Alumni Retrospective, presented by the School of Design and the Built Environment. Celebrating 20 years of fashion design and 30 years of interior architecture, this exhibition profiles the rich tapestry of course experiences and graduate achievements from fashion and interior architecture students. </p>
+
+[View Event Catalogue](https://issuu.com/curtin-dbe/docs/20_30_exhibition_book_){: .btn .btn-primary }
+
+
+
+## Virtual Tour
+<iframe width='100%' height='900px' src='https://my.matterport.com/show/?m=GYJKWDjoaSS' frameborder='0' allowfullscreen allow='xr-spatial-tracking'></iframe>
+
+## Gallery
+
+{% include carousel.html %}
