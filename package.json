@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": " tinacms dev -c bundle \"exec jekyll serve -D -p 4000\"",
+    "build": "tinacms build && jekyll"
   },
   "repository": {
     "type": "git",
@@ -21,4 +23,5 @@
     "@tinacms/cli": "^1.0.6",
     "tinacms": "^1.1.3"
   }
+  
 }
