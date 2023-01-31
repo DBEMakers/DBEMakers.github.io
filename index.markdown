@@ -49,7 +49,7 @@ Welcome to B418 Makerspace, your one stop for all information about the 418:114 
 {% include cards.html %}
 {: .mt-2 .mb-6}
 
----
+<!-- ---
 
 ## What we provide
 {: .mt-4 .mb-3}
@@ -57,7 +57,7 @@ Welcome to B418 Makerspace, your one stop for all information about the 418:114 
 {% include cards.html %}
 
 The DBE Makerspace offers many resources available for booking from staff and students. Some equipment can even be booked home for use. This includes:
-{: .mb-6}
+{: .mb-6} -->
 
 <!-- <h2>Calendar</h2>
 <p>Want to know what's happening at the Makerspace? Find out below:
