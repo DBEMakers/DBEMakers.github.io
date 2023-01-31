@@ -6,9 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tinacms dev -c bundle \"exec jekyll serve -D -p 4000\"",
-    "build": "tinacms build && next build",
-    "start": "tinacms build && next start",
-    "lint": "next lint"
+    "build": "tinacms build"
   },
   "repository": {
     "type": "git",
