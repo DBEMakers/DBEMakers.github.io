@@ -55,6 +55,7 @@ jobs:
         id: build-tina-admin
         run: |
           npm install
+          npm i tinacms
           npm run build
     
   # Deployment job
