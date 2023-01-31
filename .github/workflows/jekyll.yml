@@ -52,10 +52,10 @@ jobs:
         # Newly added
 
       - name: Build Tina Admin
-      id: build-tina-admin
-      run: |
-        npm install
-        npm run build
+        id: build-tina-admin
+        run: |
+          npm install
+          npm run build
     
   # Deployment job
   deploy:
