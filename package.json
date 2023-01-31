@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/DBEMakerspace/DBEMakerspace.github.io#readme",
   "dependencies": {
-    "tinacms": "^1.1.3"
+    "tinacms": "^1.1.4"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.0.6"
+    "@tinacms/cli": "^1.0.7"
   }
 }
