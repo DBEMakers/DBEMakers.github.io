@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": " tinacms dev -c bundle \"exec jekyll serve -D -p 4000\"",
-    "build": "tinacms build && jekyll"
+    "dev": " npx tinacms dev -c bundle \"exec jekyll serve -D -p 4000\"",
+    "build": "npx tinacms build && jekyll"
   },
   "repository": {
     "type": "git",
