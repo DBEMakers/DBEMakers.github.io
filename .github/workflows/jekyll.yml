@@ -50,8 +50,12 @@ jobs:
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
         # Newly added
-      - name: Build TinaCMS
-        run: ${{ steps.detect-package-manager.outputs.runner }} tinacms build && next build
+
+      - name: Build Tina Admin
+        id: build-tina-admin
+        run: |
+          npm install
+          npm run tinacms build
 
   # Deployment job
   deploy:
