@@ -9,12 +9,12 @@ export default defineConfig({
   token: "ff985be20f9172b068d585af5f08124036430979", // Get this from tina.io
   build: {
     outputFolder: "admin",
-    publicFolder: "",
+    publicFolder: "./",
   },
   media: {
     tina: {
       mediaRoot: "/assets/images",
-      publicFolder: "",
+      publicFolder: "./",
     },
   },
   schema: {
