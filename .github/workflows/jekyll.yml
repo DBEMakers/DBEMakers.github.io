@@ -69,11 +69,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-      
-      - name: Deploy TinaCMS 
-        env:
-          CLIENT_ID: ${{ secrets.clientId }}
-          TOKEN: ${{ secrets.token }}
-          run:  npx tinacms build --verbose ${{ steps.setup.outputs.NO_PUSH }}
-                    --src ${{ steps.setup.outputs.SRC_BRANCH }} 
-                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}  
