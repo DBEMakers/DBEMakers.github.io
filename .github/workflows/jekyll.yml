@@ -72,7 +72,6 @@ jobs:
       
       - name: Deploy TinaCMS 
         env:
-          HEAD: source
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           READ_TOKEN: ${{ secrets.READ_TOKEN }}
           run:  npx tinacms build --verbose ${{ steps.setup.outputs.NO_PUSH }}
