@@ -59,10 +59,16 @@ Welcome to B418 Makerspace, your one stop for all information about the 418:114 
 The DBE Makerspace offers many resources available for booking from staff and students. Some equipment can even be booked home for use. This includes:
 {: .mb-6} -->
 
-<!-- <h2>Calendar</h2>
-<p>Want to know what's happening at the Makerspace? Find out below:
+<!-- https://www.notioniframe.com/ -->
+
+## Calendar
+<iframe src="https://notioniframe.com/notion/nt78rq31bwb"
+style="width: 100%; height: 100vh; border: 0; padding: 0"></iframe>
+
+
+<!-- <p>Want to know what's happening at the Makerspace? Find out below:
   <div id='calendar'></div>
-</p> -->
+</p>  -->
 
 <!-- <iframe src="https://calendar.google.com/calendar/embed?src=280706j%40curtin.edu.au&ctz=Australia%2FPerth" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
