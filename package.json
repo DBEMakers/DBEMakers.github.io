@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/DBEMakerspace/DBEMakerspace.github.io#readme",
   "dependencies": {
+    "@fullcalendar/core": "^6.1.1",
+    "@fullcalendar/daygrid": "^6.1.1",
+    "@fullcalendar/google-calendar": "^6.1.1",
+    "fullcalendar": "^6.1.1",
     "tinacms": "^1.1.4"
   },
   "devDependencies": {
