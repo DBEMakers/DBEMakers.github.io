@@ -75,5 +75,5 @@ jobs:
           HEAD: source
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           READ_TOKEN: ${{ secrets.READ_TOKEN }}
-        run: tinacms build && bundle exec jekyll build 
-      
+          run:  npx tinacms build 
+        
