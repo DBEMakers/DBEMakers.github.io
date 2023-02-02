@@ -75,5 +75,7 @@ jobs:
           HEAD: source
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           READ_TOKEN: ${{ secrets.READ_TOKEN }}
-    
+          run:  yes | tinacms build && bundle exec jekyll build --verbose ${{ steps.setup.outputs.NO_PUSH }}
+                    --src ${{ steps.setup.outputs.SRC_BRANCH }} 
+                    --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
         
