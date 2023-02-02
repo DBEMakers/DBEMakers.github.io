@@ -70,12 +70,10 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
       
-     - name: Deploy TinaCMS 
+      - name: Deploy TinaCMS 
         env:
-          HEAD: source
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           READ_TOKEN: ${{ secrets.READ_TOKEN }}
-          run:  npx tinacms build 
           run:  npx tinacms build --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
