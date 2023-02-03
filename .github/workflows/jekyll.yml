@@ -69,9 +69,7 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-      - run : |
-        ls -la ${{ github.workspace }}
-        echo "${{ github.workspace }}"
+      - run :  echo "${{ github.workspace }}"
       - name: Deploy TinaCMS 
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
