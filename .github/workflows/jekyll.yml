@@ -69,10 +69,13 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
-      - run :  echo "${{ github.workspace }}"
+      - run: |
+          ls
       - name: Deploy TinaCMS 
         env:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           READ_TOKEN: ${{ secrets.READ_TOKEN }}
 
         run:  yarn tinacms build --verbose ${{ steps.setup.outputs.NO_PUSH }} --src ${{ steps.setup.outputs.SRC_BRANCH }} --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}  
+      - run: |
+          ls
