@@ -25,12 +25,6 @@ schema: {
       path: "_exhibitions/2023",
       //  Named 'md' and not 'markdown' as that is a depracated with Tina.io. Using 'markdown' breaks some of the features such as adding content to the body
       format: "md",
-      // defaultItem: () => {
-      //   return {
-      //     // Return a default title and the current date as the default date
-      //     layout: 'page',
-      //   }
-      // },
       // As Jekyll posts require a date at the beginning, this code automatically adds it.
       ui: {
         filename: {
@@ -44,10 +38,20 @@ schema: {
             let currentDate = `${year}-${month}-${day}`;
       
             return `${currentDate}-${values?.title?.toLowerCase().replace(/ /g, '-')}`
-          }
-        }
+          },
+        },
       },
       fields: [
+        {
+          type: "string",
+          name: "layout",
+          label: "Page Styling",
+          required: true,
+          options: [{
+              value: "pages",
+              label: "layout"
+          }],
+        },
         {
           type: "string",
           name: "title",
@@ -68,13 +72,27 @@ schema: {
       label: "Equipment",
       path: "_equipment",
       format: "md",
-      // defaultItem: () => {
-      //  return {
-      //     layout: "page",
-      //     grand_parent: "Equipment"
-      //  }
-      // },
       fields: [
+        {
+          type: "string",
+          name: "layout",
+          label: "Page Styling",
+          required: true,
+          options: [{
+              value: "page",
+              label: "Default"
+          }],
+        },
+        {
+          type: "string",
+          name: "grand_parent",
+          label: "Equipment?",
+          required: true,
+          options: [{
+              value: "Equipment",
+              label: "Equipment."
+          }],
+        },
         {
           type: "string",
           name: "title",
@@ -87,7 +105,6 @@ schema: {
           name: "parent",
           label: "Sub Category",
           required: true,
-          list: true,
           options: [
             {
               value: "Fabrication",
@@ -112,6 +129,7 @@ schema: {
         },
       ],
     },
+    
   ],
 },
 });
