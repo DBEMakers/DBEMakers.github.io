@@ -22,7 +22,7 @@ schema: {
     {
       name: "exhibitions",
       label: "Exhibitions",
-      path: "_exhibitions/2023",
+      path: "_exhibitions",
       //  Named 'md' and not 'markdown' as that is a depracated with Tina.io. Using 'markdown' breaks some of the features such as adding content to the body
       format: "md",
       // As Jekyll posts require a date at the beginning, this code automatically adds it.
@@ -48,7 +48,7 @@ schema: {
           label: "Page Styling",
           required: true,
           options: [{
-              value: "pages",
+              value: "page",
               label: "layout"
           }],
         },
@@ -60,6 +60,32 @@ schema: {
           required: true,
         },
         {
+          type: "string",
+          name: "parent",
+          label: "Year",
+          required: true,
+          options: [
+            {
+              value: "2022",
+              label: "2022"
+            },
+            {
+              value: "2023",
+              label: "2023"
+            },
+          ],
+        },
+        {
+          type: "string",
+          name: "grand_parent",
+          label: "Exhibition?",
+          required: true,
+          options: [{
+              value: "Exhibitions",
+              label: "Exhibition."
+          }],
+        },
+        {
           type: "rich-text",
           name: "body",
           label: "Body",
@@ -67,6 +93,8 @@ schema: {
         },
       ],
     },
+
+    // Equipment
     {
       name: "equipment",
       label: "Equipment",
