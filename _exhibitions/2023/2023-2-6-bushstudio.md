@@ -7,4 +7,4 @@ grand_parent: Exhibitions
 
 # Bush Studio
 
-This is an achieve.
+This is an archieve.
