@@ -61,8 +61,6 @@ No risk assessment is required, but Makerspace induction is mandatory.
 
 #### Machine dimensions
 
-
-
 #### Materials
 
 ## Documentation
@@ -72,10 +70,3 @@ No risk assessment is required, but Makerspace induction is mandatory.
 ### Setup file in Illustrator
 
 ### Setup file in Rhino
-
-
-
-
-
-
-
