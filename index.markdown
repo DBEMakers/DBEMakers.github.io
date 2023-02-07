@@ -41,23 +41,6 @@ halfgrid:
         </ul>
 --- 
 
-<!-- <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.1/index.global.min.js'></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    var calendarEl = document.getElementById('calendar');
-    var calendar = new FullCalendar.Calendar(calendarEl, {
-      plugins: [ googleCalendarPlugin ],
-      googleCalendarApiKey: '<YOUR API KEY>',
-      events: {
-        googleCalendarId: '280706j@curtin.edu.au'
-      }
-    });
-
-    calendar.render();
-  });
-</script> -->
-
-
 # DBE Makerspace
 
 Welcome to B418 Makerspace, your one stop for all information about the 418:114 Makerspace and equipment within B418. Please click on one of the links below to be redirected to our most common questions or click on the options to your left for further options.
@@ -66,28 +49,23 @@ Welcome to B418 Makerspace, your one stop for all information about the 418:114 
 {% include cards.html %}
 {: .mt-2 .mb-6}
 
-<!-- ---
+---
 
 ## What we provide
 {: .mt-4 .mb-3}
 
-{% include cards.html %}
+
 
 The DBE Makerspace offers many resources available for booking from staff and students. Some equipment can even be booked home for use. This includes:
-{: .mb-6} -->
+{: .mb-6}
 
+---
+{: .mb-1}
 
 ## Calendar
-<!-- <div id='calendar'></div>
+{: .mt-4}
 
-<script src='fullcalendar/dist/index.global.js'></script>
-<script>
-...
-var calendar = new FullCalendar.Calendar(calendarEl, {
-  // no plugin config required!
-});
-...
-</script> -->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Australia%2FPerth&showTitle=0&showDate=0&showNav=1&showTz=0&showCalendars=0&showPrint=0&showTabs=1&src=MjgwNzA2akBjdXJ0aW4uZWR1LmF1&color=%23039BE5" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ---
 {: .mb-6}
