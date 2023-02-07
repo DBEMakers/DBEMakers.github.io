@@ -82,19 +82,23 @@ accordion:
 
 {% include halfgrid.html %}
 
+---
+
 ## Frequently Asked Questions
 
 Find some of our most common questions for the DBE Makerspace here.
 
 {% include accordion.html %}
 
+---
+
 ## Contact Us
 
 | Area | Name | Room | Telephone |
 |:-|:-|:-|:-|
-| Fabrication (Makerspace) | [Amy, Camilo & Joshua](dbe-technicalsupport@curtin.edu.au) | 418:114 | 9266 4034 | 
-| Digital (Animation, Game, VR, etc) | [Cameron Whiting](cameron.whiting@curtin.edu.au)| 418:121 Discrete Room | 9266 7056 |
-| Bookings (Collaboration Hub) | [Kyle Critchett](k.critchett@curtin.edu.au) | 418 | 9266 7351 | 
-| Printing (Collaboration Hub) | [Debbi Burnett](d.burnett@curtin.edu.au) | 418 | 9266 7667 | 
-| Exhibitions | [Richelle Doney](r.doney@curtin.edu.au)  | 418 | 9266 7119 | 
+| Fabrication (Makerspace) | [Amy, Camilo & Joshua](mailto:dbe-technicalsupport@curtin.edu.au) | 418:114 | 9266 4034 | 
+| Digital (Animation, Game, VR, etc) | [Cameron Whiting](mailto:cameron.whiting@curtin.edu.au)| 418:121 Discrete Room | 9266 7056 |
+| Bookings (Collaboration Hub) | [Kyle Critchett](mailto:k.critchett@curtin.edu.au) | 418 | 9266 7351 | 
+| Printing (Collaboration Hub) | [Debbi Burnett](mailto:d.burnett@curtin.edu.au) | 418 | 9266 7667 | 
+| Exhibitions | [Richelle Doney](mailto:r.doney@curtin.edu.au)  | 418 | 9266 7119 | 
 
