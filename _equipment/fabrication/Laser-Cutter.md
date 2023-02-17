@@ -9,6 +9,14 @@ halfgrid:
         
       content2: <h3>Plywood</h3> <br> <img src="/assets/images/equipment/vector_example.gif" alt="vector example">
 
+
+card:
+  - title: SP 500
+    image: /assets/images/equipment/SP500_NoBackground.png
+
+  - title: Emblaser 2
+    image: /assets/images/equipment/Emblaser 2_NoBackground.png
+
 ---
 
 # Laser Cutting
@@ -26,48 +34,48 @@ halfgrid:
 
 ---
 
-## SP 500
+## General Information
 
-![SP 500](/assets/images/equipment/SP500_NoBackground.png)
+{% include cards.html %}
+{: .mb-7 .mt-3}
 
-This is the primary laser-cutting machine in the DBE Maker Space. It has a higher-power laser system which allows for precise and fast processing of projects. It is still important to carefully check any files with the technical team to ensure a complete understanding of the timeframes of any work. It is an efficient machine but there is only 1 machine available which can cause delays in results to high demand.
+Laser cutters use high-power laser system which allows for precise and fast processing of projects. It is still important to carefully check any files with the technical team to ensure a complete understanding of the timeframes of any work. 
 
-This equipment is strictly operated only by the technical team. Students can assist in the process, but the use of the machine can only be done by a technician.
+**The SP 500:** It is an efficient machine but there is only 1 machine available which can cause delays in results to high demand.
 
-No risk assessment is required, but Makerspace induction is mandatory.
+**Emblaser 2's:** The emblaser 2 is a small desktop laser cutter that allows for small projects to be processed with extra safety guards to avoid risks of major injury.
+{: .mb-7}
 
-### Machine dimensions
+| Quantity | Quantity | Risk Assessment |
+|:-|:-|:-|
+| **SP 500** | 1 | None, but you must have completed a [Makerspace induction.](https://siso.curtin.edu.au/sodbe//) | 
+| **Emblaser 2** | 10 | None, but you must have completed a [Makerspace induction.](https://siso.curtin.edu.au/sodbe//) | 
 
-### Materials available
 
-{% include halfgrid.html %}
-{: .mt-3}
+[Email DBE Makerspace](mailto: dbe-technicalsupport@curtin.edu.au){: .btn .btn-primary }
+{: .mb-7 .mt-7}
 
-See the “Equipment” section below for more information on the material dimensions that can be processed in the DBE Maker Space.
+{: .important-title }
+> Important
+>{: mx-auto }
+> **SP 500**
+> This equipment is strictly operated only by the technical team. Students can assist in the process, but the use of the machine can only be done by a technician.
+> {: mx-auto }
+>**Emblaser 2**
+> This equipment is watched over by the user for the ***entirety*** of the printing process. In the event of an emergency, please signal to the nearest technician.
+
 
 ---
 
-## Emblaser 2
+## Machine Information
 
-![Emblaser 2](/assets/images/equipment/Emblaser 2_NoBackground.png)
+| Laser Cutter                          | Dimensions                |  Materials                | 
+|:--------------------------------------|:--------------------------|:--------------------------|
+| **SP 500**                            | 1245 mm x 710 mm          | Strawboard, Plywood       |
+| **Emblaser 2**                        | 500mm x 300mm             | Strawboard, Plywood       | 
 
-### General information
-
-The emblaser 2 is a small desktop laser cutter that allows for small projects to be processed with extra safety guards to avoid risks of major injury.
-
-This machine is available for students and academics to use with less strict supervision.
-
-No risk assessment is required, but Makerspace induction is mandatory.
-
-### Machine dimensions
-
-### Materials available
-
-{% include halfgrid.html %}
-{: .mt-3}
 
 See the “Equipment” section below for more information on the material dimensions that can be processed in the DBE Maker Space.
-
 
 ---
 
