@@ -2,7 +2,7 @@
 layout: page
 title: About Us
 permalink: /about-us/
-nav_order: 2
+nav_order: 3
 
 halfgrid: 
     - content1: |
@@ -96,7 +96,7 @@ Find some of our most common questions for the DBE Makerspace here.
 
 | Area | Name | Room | Telephone |
 |:-|:-|:-|:-|
-| Fabrication (Makerspace) | [Amy, Camilo & Joshua](mailto:dbe-technicalsupport@curtin.edu.au) | 418:114 | 9266 4034 | 
+| Fabrication (Makerspace) | [Amy, Daniel, & Joshua](mailto:dbe-technicalsupport@curtin.edu.au) | 418:114 | 9266 4034 | 
 | Digital (Animation, Game, VR, etc) | [Cameron Whiting](mailto:cameron.whiting@curtin.edu.au)| 418:121 Discrete Room | 9266 7056 |
 | Bookings (Collaboration Hub) | [Kyle Critchett](mailto:k.critchett@curtin.edu.au) | 418 | 9266 7351 | 
 | Printing (Collaboration Hub) | [Debbi Burnett](mailto:d.burnett@curtin.edu.au) | 418 | 9266 7667 | 

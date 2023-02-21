@@ -3,9 +3,10 @@ layout: page
 title: Ultimaker 3D Printer
 permalink: /ultimaker/
 parent: Fabrication
-grand_parent: Equipment
+grand_parent: Makerspace 418
 
 card:
+  - number: "2"
   - title: Ultimaker S2
     image: /assets/images/equipment/S2.jpg
   - title: Ultimaker S3
@@ -98,7 +99,7 @@ Common issues with 3D printing occur due to bad geometry, please make sure you c
 
 ---
 
-![Non-Manifold / Bad Geometry](/assets/images/equipment/non-manifold (1).jpg)  
+![Non-Manifold / Bad Geometry](/assets/images/equipment/non-manifold (1).JPG)  
 {: .mt-6}
 
 --- 

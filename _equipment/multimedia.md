@@ -3,7 +3,7 @@
 layout: page  
 title: Multimedia 
 permalink: /multimedia/  
-parent: Equipment
+parent: Makerspace 418
 has_children: true
 
 ---

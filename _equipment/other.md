@@ -3,7 +3,7 @@
 layout: page  
 title: Other 
 permalink: /other/  
-parent: Equipment
+parent: Makerspace 418
 has_children: true
 
 ---
