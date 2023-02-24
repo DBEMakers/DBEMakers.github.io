@@ -1,3 +1,4 @@
+import React from 'react';
 import { defineConfig } from "tinacms";
 
 // Your hosting provider likely exposes this as an environment variable
@@ -26,6 +27,12 @@ schema: {
       //  Named 'md' and not 'markdown' as that is a depracated with Tina.io. Using 'markdown' breaks some of the features such as adding content to the body
       format: "md",
       // As Jekyll posts require a date at the beginning, this code automatically adds it.
+      defaultItem: () => {
+        return {
+          grand_parent: 'Exhibitions',
+          layout: 'page',
+        }
+      },
       ui: {
         filename: {
           readonly: false,
@@ -43,14 +50,13 @@ schema: {
       },
       fields: [
         {
-          type: "string",
           name: "layout",
-          label: "Page Styling",
-          required: true,
-          options: [{
-              value: "page",
-              label: "layout"
-          }],
+          type: "string",
+          ui: {
+            component: () => {
+                return <> </>
+            }
+          }
         },
         {
           type: "string",
@@ -76,14 +82,13 @@ schema: {
           ],
         },
         {
-          type: "string",
           name: "grand_parent",
-          label: "Exhibition?",
-          required: true,
-          options: [{
-              value: "Exhibitions",
-              label: "Exhibition."
-          }],
+          type: "string",
+          ui: {
+            component: () => {
+                return <> </>
+            }
+          }
         },
         {
           type: "rich-text",
@@ -94,32 +99,36 @@ schema: {
       ],
     },
 
-    // Equipment
+    // Makerspace
     {
-      name: "equipment",
-      label: "Equipment",
-      path: "_equipment",
+      name: "makerspace_equipment",
+      label: "Makerspace Equipment",
+      path: "_equipment/makerspace",
       format: "md",
+      defaultItem: () => {
+        return {
+          grand_parent: 'makerspace_equipment',
+          layout: 'page',
+        }
+      },
       fields: [
         {
-          type: "string",
           name: "layout",
-          label: "Page Styling",
-          required: true,
-          options: [{
-              value: "page",
-              label: "Default"
-          }],
+          type: "string",
+          ui: {
+            component: () => {
+                return <> </>
+            }
+          }
         },
         {
-          type: "string",
           name: "grand_parent",
-          label: "Equipment?",
-          required: true,
-          options: [{
-              value: "Equipment",
-              label: "Equipment."
-          }],
+          type: "string",
+          ui: {
+            component: () => {
+                return <> </>
+            }
+          }
         },
         {
           type: "string",
@@ -149,6 +158,51 @@ schema: {
           ],
         },
 
+        {
+          type: "rich-text",
+          name: "body",
+          label: "Body",
+          isBody: true,
+        },
+      ],
+    },
+    {
+      name: "workshop_equipment",
+      label: "Workshop Equipment",
+      path: "_equipment/workshop",
+      format: "md",
+      defaultItem: () => {
+        return {
+          grand_parent: 'workshop_quipment',
+          layout: 'page',
+        }
+      },
+      fields: [
+        {
+          name: "layout",
+          type: "string",
+          ui: {
+            component: () => {
+                return <> </>
+            }
+          }
+        },
+        {
+          name: "grand_parent",
+          type: "string",
+          ui: {
+            component: () => {
+                return <> </>
+            }
+          }
+        },
+        {
+          type: "string",
+          name: "title",
+          label: "Title",
+          isTitle: true,
+          required: true,
+        },
         {
           type: "rich-text",
           name: "body",
