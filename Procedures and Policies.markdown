@@ -2,6 +2,7 @@
 layout: page
 title: Procedures and Policies
 permalink: /procedures-and-policies/
+nav_order: 2
 ---
 # Procedures and Policies
 

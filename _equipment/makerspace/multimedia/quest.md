@@ -3,7 +3,7 @@ layout: page
 title: Oculus Quest 2
 permalink: /quest-2/
 parent: Multimedia
-grand_parent: Equipment
+grand_parent: Makerspace 418
 ---
 
 # Oculus Quest 2 - Virtual Headset  

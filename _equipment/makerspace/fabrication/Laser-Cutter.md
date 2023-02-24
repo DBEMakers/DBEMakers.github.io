@@ -1,6 +1,6 @@
 ---
 layout: page
-grand_parent: Equipment
+grand_parent: Makerspace 418
 title: Laser Cutter
 parent: Fabrication
 
