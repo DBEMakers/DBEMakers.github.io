@@ -166,6 +166,8 @@ schema: {
         },
       ],
     },
+
+    // Wood and Metal Workshop
     {
       name: "workshop_equipment",
       label: "Workshop Equipment",
@@ -173,7 +175,7 @@ schema: {
       format: "md",
       defaultItem: () => {
         return {
-          grand_parent: 'workshop_quipment',
+          grand_parent: 'Workshop 202',
           layout: 'page',
         }
       },
@@ -189,6 +191,69 @@ schema: {
         },
         {
           name: "grand_parent",
+          type: "string",
+          ui: {
+            component: () => {
+                return <> </>
+            }
+          }
+        },
+        {
+          type: "string",
+          name: "title",
+          label: "Title",
+          isTitle: true,
+          required: true,
+        },
+        {
+          type: "string",
+          name: "parent",
+          label: "Sub Category",
+          required: true,
+          options: [
+            {
+              value: "metal",
+              label: "Metal Working"
+            },
+            {
+              value: "wood",
+              label: "Wood Working"
+            },
+          ],
+        },
+        {
+          type: "rich-text",
+          name: "body",
+          label: "Body",
+          isBody: true,
+        },
+      ],
+    },
+
+    // Fashion
+    {
+      name: "fashion_equipment",
+      label: "Fashion",
+      path: "_equipment/fashion",
+      format: "md",
+      defaultItem: () => {
+        return {
+          parent: 'Fashion 212',
+          layout: 'page',
+        }
+      },
+      fields: [
+        {
+          name: "layout",
+          type: "string",
+          ui: {
+            component: () => {
+                return <> </>
+            }
+          }
+        },
+        {
+          name: "parent",
           type: "string",
           ui: {
             component: () => {

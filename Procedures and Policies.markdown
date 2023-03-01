@@ -17,22 +17,31 @@ nav_order: 2
 {:toc}
 </details>
 ---
-
+![Induction Stickers](/assets/images/Induction_Stickers.png)   
 
 Due to the large number of students within DBE, it is important that all students follow the listed procedures and policies. Ignorance is not an excuse for failing to adhere to the policy or procedures.
 
+In order to use the Makerspace and its equipment, you will need to book an induction. Inductions can be general or specialised so please specify what equipment you would like to use. Induction types include general inductions for the Makerspace, Wood & Metal workshops; Laser Cutting; And 3D Printing.
+
+To book an induction, please click the link below:
+
 [Book an Induction](https://siso.curtin.edu.au/sodbe//){: .btn .btn-primary }
+
+---
 
 ## 1. Supervision
 Before using any equipment or in an emergency, please signal to one of the technicians to assist you and supervise. Do not use any of the equipment without a technician’s approval. Children under the age of 16 must be accompanied by a parent or Curtin faculty, staff, or student. Users must also complete an induction prior to using equipment in the Makerspace. Failure to do so will result in access being revoked.
 
 <!-- ![](/assets/images/powertools-example.jpg) -->
 
+---
 
 ## 2. Appropriate Attire
 To use equipment and working within the B418 Makerspace you are required to wear enclosed shoes. If you do **not** wear appropriate footwear you will be **denied** access to the facilities and to the equipment. It is required that you wear safety glasses and, when in the high-tech space that you wear ear muffs to protect yourself.
 
 Both pieces of equipment will be provided upon entry and must be cleaned after use.
+
+---
 
 ## 3. Equipment Use
 Users of the DBE Makerspace cannot create objects that endanger themselves or others. Technicians have the right to refuse your project if it does not meet this requirement.
