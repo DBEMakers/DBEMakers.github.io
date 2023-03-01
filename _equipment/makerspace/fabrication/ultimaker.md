@@ -6,7 +6,6 @@ parent: Fabrication
 grand_parent: Makerspace 418
 
 card:
-  - number: "2"
   - title: Ultimaker S2
     image: /assets/images/equipment/S2.jpg
   - title: Ultimaker S3
