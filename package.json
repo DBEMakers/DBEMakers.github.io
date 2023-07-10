@@ -24,10 +24,10 @@
     "@fullcalendar/daygrid": "^6.1.1",
     "@fullcalendar/google-calendar": "^6.1.1",
     "fullcalendar": "^6.1.1",
-    "tinacms": "^1.1.5",
+    "tinacms": "^1.5.13",
     "yarn": "^1.22.19"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.0.8"
+    "@tinacms/cli": "^1.5.22"
   }
 }
