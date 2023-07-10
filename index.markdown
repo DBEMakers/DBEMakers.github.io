@@ -38,39 +38,42 @@ Welcome to DBE Makers wiki, your one stop for all information about DBE's Makers
 
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
-    <a href="/makerspace/" style="text-decoration: none; color: #000;">
       <div class="col">
-        <div class="card">
-          <img src="assets\images\3D Printing.gif" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">DBE Makerspace</h5>
-            <p class="card-text">For 3D Printing, laser cutting, VR and more.</p>
+        <a href="/makerspace/" style="text-decoration: none; color: #000;">
+          <div class="card">
+            <img src="assets\images\3D Printing.gif" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">DBE Makerspace</h5>
+              <p class="card-text">For 3D Printing, laser cutting, VR and more.</p>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
-    </a>
-     <a href="/workshop/" style="text-decoration: none; color: #000;">
+
       <div class="col">
-        <div class="card">
-          <img src="assets\images\woodworking.jpg" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Workshops</h5>
-            <p class="card-text">For metal and wood working needs.</p>
+        <a href="/workshop/" style="text-decoration: none; color: #000;">
+          <div class="card">
+            <img src="assets\images\woodworking.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Workshops</h5>
+              <p class="card-text">For metal and wood working needs.</p>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
-    </a>
-     <a href="/fashion/" style="text-decoration: none; color: #000;">
+
       <div class="col">
-        <div class="card">
-          <img src="assets\images\fashion.jpg" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title">Fashion</h5>
-            <p class="card-text">For your experimental textiles needs.</p>
+        <a href="/fashion/" style="text-decoration: none; color: #000;">
+          <div class="card">
+            <img src="assets\images\fashion.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+              <h5 class="card-title">Fashion</h5>
+              <p class="card-text">For your experimental textiles needs.</p>
+            </div>
           </div>
-        </div>
+        </a>
       </div>
-    </a>
+
   </div>
 {: .mb-6 .mt-1}
 

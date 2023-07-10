@@ -28,7 +28,7 @@ twitter_username:
 github_username:  
 
 # Build settings
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+theme: just-the-docs
 plugins:
   - jekyll-feed
 #to remove when updated version of Just the Docs releases
