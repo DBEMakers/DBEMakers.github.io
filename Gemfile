@@ -19,7 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-remote-theme", "~> 0.4.2"
 end
 
-# gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
