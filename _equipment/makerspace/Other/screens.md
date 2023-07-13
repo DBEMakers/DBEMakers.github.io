@@ -1,25 +1,21 @@
 ---
-
-layout: page  
+layout: page
 title: Digital Screens
-permalink: /screens/  
+permalink: /screens/
 parent: Other
 grand_parent: Makerspace 418
-
 ---
 
 # Digital Screens
 
----
+***
 
+## General Information
 
-## General Information 
 Would you like to display content across B418? Now you can! Be it staff events, general notices, student showcases or club advertisements. Click on the link below to be taken to the request form otherwise send all enquires to: [cameron.whiting@curtin.edu.au](mailto:cameron.whiting@curtin.edu.au)
 
-
-
-
 <!-- Formatted this way due to dot points in tables not being easily supported in markdown -->
+
 <table>
   <thead>
     <tr>
@@ -46,15 +42,17 @@ Would you like to display content across B418? Now you can! Be it staff events, 
         <li>Content must be requested by a student affiliated with a club or endorsed by a staff member.</li>
         <li>Content must abide by Curtin’s branding guidelines. Content can be rearranged by the tech team to meet these standards.</li>
         <li>Static content lasts for 8-10 seconds maximum so succinct, visual content is best.</li>
+        <li> If supplying a PDF, PDF must not exceed 30 pages. If content is over 30 pages, provide all pages as .jpg images in a folder. </li>
         <li>Videos can be of any length. </li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+***
 
 ## Request Form
+
 <form action="https://formspree.io/f/mqkjyepw" method="POST">
     <div class="form-group">
         <label for="name">Name</label>
