@@ -49,7 +49,7 @@ Laser cutters use high-power laser system which allows for precise and fast proc
 | **SP 500** | 1 | None, but you must have completed a [Makerspace induction.](https://siso.curtin.edu.au/sodbe//) |
 | **Emblaser 2** | 10 | None, but you must have completed a [Makerspace induction.](https://siso.curtin.edu.au/sodbe//) |
 
-\[Email DBE Makerspace]\(mailto: dbe-technicalsupport@curtin.edu.au){: .btn .btn-primary }
+[Email DBE Makerspace](mailto: dbe-technicalsupport@curtin.edu.au){: .btn .btn-primary }
 {: .mb-7 .mt-7}
 
 {: .important-title }
