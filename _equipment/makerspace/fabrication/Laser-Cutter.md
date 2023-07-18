@@ -81,7 +81,7 @@ See the “Equipment” section below for more information on the material dimen
 
 #### Vector lines
 
-<li> Vector files need to be DRAWN in the vector program rather than just imported or pasted in there. Also opening a vector file in a raster file program, such as Photoshop, will convert it to a raster image. </li> 
+* Vector files need to be DRAWN in the vector program rather than just imported or pasted in there. Also opening a vector file in a raster file program, such as Photoshop, will convert it to a raster image.
 
 ### Line weight
 
