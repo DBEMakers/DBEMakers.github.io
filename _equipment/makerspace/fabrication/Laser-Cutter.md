@@ -49,7 +49,7 @@ Laser cutters use high-power laser system which allows for precise and fast proc
 | **SP 500** | 1 | None, but you must have completed a [Makerspace induction.](https://siso.curtin.edu.au/sodbe//) |
 | **Emblaser 2** | 10 | None, but you must have completed a [Makerspace induction.](https://siso.curtin.edu.au/sodbe//) |
 
-[Email DBE Makerspace](mailto: dbe-technicalsupport@curtin.edu.au){: .btn .btn-primary }
+\[Email DBE Makerspace]\(mailto: dbe-technicalsupport@curtin.edu.au){: .btn .btn-primary }
 {: .mb-7 .mt-7}
 
 {: .important-title }
@@ -108,6 +108,28 @@ To process any file, it is required that the PDF only have the following colours
 * StudentID\_MaterialThickness\_MaterialSize.PDF
 
 #### Setup file in AutoCAD
+
+#### Setup file in Fusion 360
+
+  
+
+### &#x20;   What is Autodesk Fusion 360?
+
+        
+          
+
+Autodesk Fusion 360 combines CAD, CAM, CAE, and PCB into a 
+single, integrated cloud software platform. It includes all the tools 
+that you need to go from design to manufacturing, seamlessly.\
+
+
+In the 418 Makerspace we accept files in PDF format as it is lightweight and avoids the importing of unnecessary CAD information. **YOU MUST EXPORT AS PDF**
+
+The golden rule with Fusion is that you work with components, they store date about the design you are working with such as the sketch information and the bodies and is similar to working in layers in other software. 
+
+![](/assets/images/components.png)
+
+ 
 
 #### Setup file in Illustrator
 
