@@ -145,13 +145,21 @@ I now need to create a rectangle for arranging my pieces for laser cutting. You 
 
 Make sure your top level component is selected.
 
-1. In the create menu select rectangle or hit the \[R] key![](</assets/images/Screenshot 2023-07-18 123813.png>)
-2.  Select Center Point Rectangle![](</assets/images/Screenshot 2023-07-18 123854.png>)
-3. Select the () plane and define your size, switching between height and width with \[Tab➡] key![](</assets/images/Screenshot 2023-07-18 124030.png>)
-4. Hit enter and finish sketch![](</assets/images/Screenshot 2023-07-18 124104.png>)
-5. the plane should be at the bottom of you model as displayed here:![](</assets/images/Screenshot 2023-07-18 124332.png>)
+1. Create a new sketch
+2. Select the plane that you would like to create the sketch on![](</assets/images/Screenshot 2023-07-18 124209.png>)
+3. Draw a rectangle using the create menu or simply hit the \[R] key![](</assets/images/Screenshot 2023-07-18 123813.png>)
+4. Select Center Point rectangle![](</assets/images/Screenshot 2023-07-18 123854.png>)  
+5. Define your size, switching between height and width with \[Tab➡] key![](</assets/images/Screenshot 2023-07-18 124030.png>)
+6. Hit enter and then finish sketch![](</assets/images/Screenshot 2023-07-18 124104.png>)
+7. the plane should be at the bottom of you model as displayed here:![](</assets/images/Screenshot 2023-07-18 124332.png>)
 
-I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape as it only considers a drawing to have x,y axis information or that is in 2d. 
+I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape as it only considers a drawing to have x,y axis information or that is in 2d. This means we need to lay out and Nest our components, using an orthographic view to capture our line information.
+
+For my design I have set this to work from the top view. 
+
+Nesting
+
+1. Select Arrange in Modify menu with all the components selected, or select them individually afterward 
 
 #### Setup file in Illustrator
 
