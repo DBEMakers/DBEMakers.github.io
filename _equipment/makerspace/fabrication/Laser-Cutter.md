@@ -119,8 +119,6 @@ that you need to go from design to manufacturing, seamlessly.
 
 In the 418 Makerspace we only accept PDF format for laser cutting as it is lightweight and avoids the importing of unnecessary CAD information. **YOU MUST EXPORT AS A .PDF!!!**
 
-####
-
 #### **Laser Cut Setup**
 
 The golden rule in Fusion is that you make sections of your models as Components. They store data about your design i.e sketch information, bodies and origin planes. Think of it as a layer in AutoCAD or Photoshop.
