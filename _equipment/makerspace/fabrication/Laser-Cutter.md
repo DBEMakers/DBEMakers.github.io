@@ -115,11 +115,13 @@ To process any file, it is required that the PDF only have the following colours
 
 Autodesk Fusion 360 combines CAD, CAM, CAE, and PCB into a
 single, integrated cloud software platform. It includes all the tools
-that you need to go from design to manufacturing, seamlessly.\\
+that you need to go from design to manufacturing, seamlessly.
 
-In the 418 Makerspace we only accept PDF format for laser cutting as it is lightweight and avoids the importing of unnecessary CAD information. **YOU MUST EXPORT AS .PDF!!!**
+In the 418 Makerspace we only accept PDF format for laser cutting as it is lightweight and avoids the importing of unnecessary CAD information. **YOU MUST EXPORT AS A .PDF!!!**
 
-**Laser Cut Setup**
+####
+
+#### **Laser Cut Setup**
 
 The golden rule in Fusion is that you make sections of your models as Components. They store data about your design i.e sketch information, bodies and origin planes. Think of it as a layer in Auto Cad or Photoshop.
 
@@ -143,7 +145,10 @@ I now need to create a rectangle for arranging my pieces for laser cutting. You 
 
 Make sure your top level component is selected.
 
-1. In the create menu select rectangle or hit the \[R] key![](</assets/images/Screenshot 2023-07-18 123813.png>)2. Select Center Point Rectangle,![](</assets/images/Screenshot 2023-07-18 123854.png>)3. Select the () plane and define your size, switching between height and width with \[Tab➡] key.![](</assets/images/Screenshot 2023-07-18 124030.png>)Hit enter and finish sketch
+1. In the create menu select rectangle or hit the \[R] key![](</assets/images/Screenshot 2023-07-18 123813.png>)
+2.  Select Center Point Rectangle![](</assets/images/Screenshot 2023-07-18 123854.png>)
+3. Select the () plane and define your size, switching between height and width with \[Tab➡] key![](</assets/images/Screenshot 2023-07-18 124030.png>)
+4. Hit enter and finish sketch![](</assets/images/Screenshot 2023-07-18 124104.png>)
 
 I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape as it only considers a drawing to have x,y axis information or that is in 2d. 
 
