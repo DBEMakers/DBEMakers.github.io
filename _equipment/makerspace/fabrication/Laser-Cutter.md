@@ -135,11 +135,13 @@ I would like change my view to help identify each sections in the inspect menu.
 
 ![](</assets/images/Screenshot 2023-07-18 123311.png>)
 
-now my model has an ID color for each of its components.
+Now my model has an ID color for each of its components.
 
 ![](</assets/images/Screenshot 2023-07-18 123441.png>)
 
-I now need to create a rectangle for arranging my pieces for laser cutting. I designed my ply box with my material width in mind however laser cutting only needs the top surface of a shape  with 
+I now need to create a rectangle for arranging my pieces for laser cutting. You can always specify this area in the arrange menu later but I have chosen a more visual method of defining my bounding box for the laser cut. 
+
+I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape  with 
 
 #### Setup file in Illustrator
 
