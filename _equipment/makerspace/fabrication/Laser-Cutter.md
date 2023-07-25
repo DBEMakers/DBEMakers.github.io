@@ -139,6 +139,8 @@ now my model has an ID color for each of its components.
 
 ![](</assets/images/Screenshot 2023-07-18 123441.png>)
 
+I now need to create a rectangle for arranging my pieces for laser cutting. I designed my ply box with my material width in mind however laser cutting only needs the top surface of a shape  with 
+
 #### Setup file in Illustrator
 
 #### Setup file in Rhino
