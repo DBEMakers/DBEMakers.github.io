@@ -127,7 +127,13 @@ It is best to make each piece of your design as its own individual Component as 
 
 ![](/assets/images/components.png)
 
-My model is a 3mm Polar ply box that is connected by finger joins
+My model 👇 is a 3mm Polar ply box that is connected by finger joins.
+
+![](</assets/images/Screenshot 2023-07-18 122946.png>)
+
+I would like change my view to help identify each sections in the inspect menu.
+
+![](</assets/images/Screenshot 2023-07-18 123311.png>)
 
 #### Setup file in Illustrator
 
