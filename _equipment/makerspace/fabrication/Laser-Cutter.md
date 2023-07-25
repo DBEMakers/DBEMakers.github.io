@@ -119,7 +119,9 @@ that you need to go from design to manufacturing, seamlessly.\\
 
 In the 418 Makerspace we accept files in PDF format as it is lightweight and avoids the importing of unnecessary CAD information. **YOU MUST EXPORT AS PDF**
 
-The golden in Fusion is that you make sections of your models as components, they store date about the design you are working with such as the sketch information and the bodies and is similar to working in layers in other software.
+The golden rule in Fusion is that you make sections of your models as Components. They store data about your design i.e sketch information, bodies and origin planes. Think of it as a layer in Auto Cad or Photoshop.
+
+It is best to make each piece of your design as its own individual Component as it will help later on and is generally a good habit to be in for an effective workflow.
 
 ![](/assets/images/components.png)
 
