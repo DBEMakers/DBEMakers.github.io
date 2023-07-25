@@ -149,6 +149,7 @@ Make sure your top level component is selected.
 2.  Select Center Point Rectangle![](</assets/images/Screenshot 2023-07-18 123854.png>)
 3. Select the () plane and define your size, switching between height and width with \[Tab➡] key![](</assets/images/Screenshot 2023-07-18 124030.png>)
 4. Hit enter and finish sketch![](</assets/images/Screenshot 2023-07-18 124104.png>)
+5. the plane should be at the bottom of you model as displayed here:![](</assets/images/Screenshot 2023-07-18 124332.png>)
 
 I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape as it only considers a drawing to have x,y axis information or that is in 2d. 
 
