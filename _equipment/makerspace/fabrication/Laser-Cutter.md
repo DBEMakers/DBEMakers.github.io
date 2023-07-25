@@ -143,11 +143,11 @@ I now need to create a rectangle for arranging my pieces for laser cutting. You 
 
 Make sure your top level component is selected.
 
-![](</assets/images/Screenshot 2023-07-18 123813.png>)
+In the create menu select rectangle or hit the \[R] key![](</assets/images/Screenshot 2023-07-18 123813.png>)
 
 Select Center Point Rectangle,![](</assets/images/Screenshot 2023-07-18 123854.png>)Select the () plane and define your size, switching between height and width with \[Tab➡] key.
 
-![](</assets/images/Screenshot 2023-07-18 124030.png>)Hit enter and finish sketch,
+![](</assets/images/Screenshot 2023-07-18 124030.png>)Hit enter and finish sketch
 
 I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape as it only considers a drawing to have x,y axis information or that is in 2d. 
 
