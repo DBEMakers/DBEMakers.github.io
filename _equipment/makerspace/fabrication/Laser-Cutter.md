@@ -117,13 +117,17 @@ Autodesk Fusion 360 combines CAD, CAM, CAE, and PCB into a
 single, integrated cloud software platform. It includes all the tools
 that you need to go from design to manufacturing, seamlessly.\\
 
-In the 418 Makerspace we accept files in PDF format as it is lightweight and avoids the importing of unnecessary CAD information. **YOU MUST EXPORT AS PDF**
+In the 418 Makerspace we only accept PDF format for laser cutting as it is lightweight and avoids the importing of unnecessary CAD information. **YOU MUST EXPORT AS .PDF!!!**
+
+**Laser Cut Setup**
 
 The golden rule in Fusion is that you make sections of your models as Components. They store data about your design i.e sketch information, bodies and origin planes. Think of it as a layer in Auto Cad or Photoshop.
 
 It is best to make each piece of your design as its own individual Component as it will help later on and is generally a good habit to be in for an effective workflow.
 
 ![](/assets/images/components.png)
+
+My model is a 3mm Polar ply box that is connected by finger joins
 
 #### Setup file in Illustrator
 
