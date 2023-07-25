@@ -159,7 +159,8 @@ For my design I have set this to work from the top view.
 
 Nesting
 
-1. Select Arrange in Modify menu with all the components selected, or select them individually afterward 
+1. Select Arrange in Modify menu with all the components selected, or select them individually afterward![](</assets/images/Screenshot 2023-07-25 120003.png>)
+2.  
 
 #### Setup file in Illustrator
 
