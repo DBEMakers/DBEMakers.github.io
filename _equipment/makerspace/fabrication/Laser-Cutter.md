@@ -141,7 +141,7 @@ Now my model has an ID color for each of its components.
 
 I now need to create a rectangle for arranging my pieces for laser cutting. You can always specify this area in the arrange menu later but I have chosen a more visual method of defining my bounding box for the laser cut. 
 
-I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape  with 
+I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape with 
 
 #### Setup file in Illustrator
 
