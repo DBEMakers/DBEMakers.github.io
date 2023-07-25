@@ -111,25 +111,17 @@ To process any file, it is required that the PDF only have the following colours
 
 #### Setup file in Fusion 360
 
-  
-
 ### &#x20;   What is Autodesk Fusion 360?
 
-        
-          
-
-Autodesk Fusion 360 combines CAD, CAM, CAE, and PCB into a 
-single, integrated cloud software platform. It includes all the tools 
-that you need to go from design to manufacturing, seamlessly.\
-
+Autodesk Fusion 360 combines CAD, CAM, CAE, and PCB into a
+single, integrated cloud software platform. It includes all the tools
+that you need to go from design to manufacturing, seamlessly.\\
 
 In the 418 Makerspace we accept files in PDF format as it is lightweight and avoids the importing of unnecessary CAD information. **YOU MUST EXPORT AS PDF**
 
-The golden rule with Fusion is that you work with components, they store date about the design you are working with such as the sketch information and the bodies and is similar to working in layers in other software. 
+The golden rule with Fusion is that you work with components, they store date about the design you are working with such as the sketch information and the bodies and is similar to working in layers in other software.
 
 ![](/assets/images/components.png)
-
- 
 
 #### Setup file in Illustrator
 
