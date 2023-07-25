@@ -135,6 +135,10 @@ I would like change my view to help identify each sections in the inspect menu.
 
 ![](</assets/images/Screenshot 2023-07-18 123311.png>)
 
+now my model has an ID color for each of its components.
+
+![](</assets/images/Screenshot 2023-07-18 123441.png>)
+
 #### Setup file in Illustrator
 
 #### Setup file in Rhino
