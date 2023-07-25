@@ -141,7 +141,13 @@ Now my model has an ID color for each of its components.
 
 I now need to create a rectangle for arranging my pieces for laser cutting. You can always specify this area in the arrange menu later but I have chosen a more visual method of defining my bounding box for the laser cut. 
 
-I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape with 
+Make sure your top level component is selected.
+
+![](</assets/images/Screenshot 2023-07-18 123813.png>)
+
+Select Center Point Rectangle and define your size, switching between sides with ![](/assets/images/main-qimg-81ae8a44e1b3394f061211a2a4b2a69c.png) key
+
+I designed my ply box with my material width in mind however the laser cutting only needs the top surface of a shape as it only considers a drawing to have x,y axis information or that is in 2d. 
 
 #### Setup file in Illustrator
 
