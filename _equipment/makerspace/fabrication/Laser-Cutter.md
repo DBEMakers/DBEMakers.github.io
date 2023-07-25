@@ -161,7 +161,7 @@ Nesting
 
 1. Select Arrange in Modify menu with all the components selected, or select them individually afterward![](</assets/images/Screenshot 2023-07-25 120003.png>)
 2.  Make sure all components are selected and appear in Arrange options![](</assets/images/Screenshot 2023-07-18 124558.png>)
-3.
+3. I now select my envelope, the rectangle 
 
 #### Setup file in Illustrator
 
