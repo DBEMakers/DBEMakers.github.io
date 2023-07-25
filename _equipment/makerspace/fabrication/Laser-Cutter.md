@@ -123,7 +123,7 @@ In the 418 Makerspace we only accept PDF format for laser cutting as it is light
 
 #### **Laser Cut Setup**
 
-The golden rule in Fusion is that you make sections of your models as Components. They store data about your design i.e sketch information, bodies and origin planes. Think of it as a layer in Auto Cad or Photoshop.
+The golden rule in Fusion is that you make sections of your models as Components. They store data about your design i.e sketch information, bodies and origin planes. Think of it as a layer in AutoCAD or Photoshop.
 
 It is best to make each piece of your design as its own individual Component as it will help later on and is generally a good habit to be in for an effective workflow.
 
