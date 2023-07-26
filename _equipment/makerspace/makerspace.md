@@ -9,39 +9,39 @@ has_children: true
 accordion: 
   - title: Is this the library Makerspace?
     content: |
-      No, this is the DBE Makerspace for those in the faculty of Design and Built Environment. 
+      No. Information on the Curtin Library Makerspace can be found 
+      <a href="https://makerspace.library.curtin.edu.au/">here</a>.  
     
-      For information on the library Makerspace, please refer to the following website 
-      <a href="https://makerspace.library.curtin.edu.au/">https://makerspace.library.curtin.edu.au/ </a>  
-    
-      If you are from another faculty you are also welcome to use the space subject to availability.
 
   - title: Can I use the DBE Makerspace?
     content: |
-      The Makerspace is open to Design and Built Environment students, staff and tenants of building 418. If you are from another faculty you are also welcome to use the space subject to availability. 
+      The Makerspace is open to students and staff in the school of Design and the Built Environment. 
       
-      Due to the nature of our Makerspace’s environment and the extra safety precautions required, the space is not available to children.
-    
-      All students are welcome to drop in anytime during our opening hours or email us with your query.    
+      Other students and staff can access the <a href="https://makerspace.library.curtin.edu.au/">Library Makerspace</a>. 
+      
+      Other schools and areas can <a href="mailto:DBEMakerspace@curtin.edu.au">contact us</a> to discuss collaborations or student support outside of DBE. 
 
   - title: When is the DBE Makerspace open?
     content: |
-      We are open Monday to Friday, 8.00am – 4.00pm all year round (excluding holidays).
+      Our usual operatiing hours are Monday to Friday, 8am – 4pm all year round (excluding holidays).
 
-      Depending on the day, staff maybe on campus longer and can support you.
+      Staff may also be available later than 4pm if circumstances permit. 
 
-  - title: Where are we situated?
+  - title: Where is the DBE Makerspace?
     content: |
-      DBE Makerspace is located in B418, level 1 at the back right corner of the building.
+      You can find us in Building 418, level 1.
 
   - title: What equipment do you have?
     content: |
       You can view our equipment list using the dropdown menu to the left of this site.
 
-
   - title: Will there be in-person support?
     content: |
-       Our DBE Makerspace staff can provide information, help you to locate the equipment you need and assist you to get started. We promote self-directed learning and are not necessarily experts in all the activity areas we support.
+       DBE Makerspace staff provide technical support, instruction, resources, and guidance on use of the equipment. 
+
+  - title: How do I get started?
+    content: |
+        To use the DBE Makerspace, first sign up for an induction <a href="https://siso.curtin.edu.au/sodbe">here<a>. Sign in with your OASIS credentials and head to "Workshops" to find an induction session. 
 
   - title: What do I need to know to use the 3D Printers?
     content: |
