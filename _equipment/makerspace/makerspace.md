@@ -45,13 +45,13 @@ accordion:
 
   - title: What do I need to know to use the 3D Printers?
     content: |
-      Learn to use the 3D printers by completing a 3D Printing Badge. You can sign up for one <a href="https://siso.curtin.edu.au/sodbe">here</a> under workshops after completing a General Makerspace Induction. <a href="fabrication/ultimaker.md">Find out more about 3D printing.</a>
+      Learn to use the 3D printers by completing a 3D Printing Badge. You can sign up for one <a href="https://siso.curtin.edu.au/sodbe">here</a> under workshops after completing a General Makerspace Induction. <a href="ultimaker">Find out more about 3D printing.</a>
 
   - title: What do I need to know to use the laser cutters?
     content: |
       Learn to use the Emblaser 2 laser cutters by completing a Laser Cutting Badge. You can sign up for one <a href="https://siso.curtin.edu.au/sodbe">here</a> under workshops after completing a General Makerspace Induction. 
 
-      To use the Trotec SP500 (large format) laser cutter with a technician, only a General Makerspace Induction is required. <a href="fabrication/Laser-Cutter.md">Find out more about laser cutting.</a>
+      To use the Trotec SP500 (large format) laser cutter with a technician, only a General Makerspace Induction is required. <a href="_equipment/makerspace/fabrication/Laser-Cutter">Find out more about laser cutting.</a>
 ---
 
 # 418 Makerspace
