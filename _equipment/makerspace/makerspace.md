@@ -95,11 +95,13 @@ Find some of our most common questions for the DBE Makerspace here.
 ## Induction Timetable
 {: .mt-3 .mb-3}
 
-To book an induction listed below, please make an appointment through Siso. You can do so by clicking the button below:
+To book an induction, sign in to <a href="https://siso.curtin.edu.au/sodbe">Siso</a> and navigate to Workshops.  You'll be able to see all available inductions, which generally run at the beginning of the semester. 
 
-[Make Booking](https://siso.curtin.edu.au/sodbe//){: .btn .btn-primary }
+Once you've completed a General Makerspace Induction, you can complete a 3D Printing Badge and/or a Laser Cutting Badge.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=Australia%2FPerth&showTitle=0&showDate=0&showNav=1&showTz=0&showCalendars=0&showPrint=0&showTabs=1&src=MjgwNzA2akBjdXJ0aW4uZWR1LmF1&color=%23039BE5" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+[Find an induction](https://siso.curtin.edu.au/sodbe//){: .btn .btn-primary }
+
+
 
 ---
 
