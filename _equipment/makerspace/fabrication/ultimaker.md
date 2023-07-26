@@ -44,7 +44,9 @@ halfgrid:
 {% include cards.html %}
 {: .mb-7 .mt-3}
 
-(FDM) Fused Deposition Modelling printing technology. For printing 3D models into physical objects. This is available for all students of DBE to print 3D models. Models needing to be printed need to be sent to the technicians. To print a model, please email or come to the Makerspace for further information.
+(FDM) Fused Deposition Modelling printing technology. For printing 3D models into physical objects. This is available for all students of DBE to print 3D models. 
+
+To print, you must complete a [General Makerspace Induction](https://siso.curtin.edu.au/sodbe "Siso") and a [3D Printing Badge](https://siso.curtin.edu.au/sodbe "Siso").
 
 | Quantity | Risk Assessment |
 |:-|:-|
