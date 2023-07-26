@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ultimaker 3D Printer
-permalink: /ultimaker/
+# permalink: /ultimaker/
 parent: Fabrication
 grand_parent: Makerspace 418
 card:
