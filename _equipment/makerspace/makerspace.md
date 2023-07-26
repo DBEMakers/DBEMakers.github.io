@@ -74,7 +74,7 @@ accordion:
 
 The DBE Makerspace is a creative learning space for students across Design and Built Environment located within B418. The tech team support students and staff with technical resources, areas, and equipment, including technical supervision and instruction, operation, and maintenance. We ensure everyone receives safety inductions, instruction, and guidance.
 
-To get started, sign up for an induction [here]("https://siso.curtin.edu.au/sodbe"). Inductions are available under "Workshops" and run at the beginning of each semester. 
+To get started, sign up for an induction [here](https://siso.curtin.edu.au/sodbe). Inductions are available under "Workshops" and run at the beginning of each semester. 
 
 
 ![Makerspace](/assets/images/makerspace_default_img.jpg)   
@@ -99,7 +99,7 @@ To book an induction, sign in to <a href="https://siso.curtin.edu.au/sodbe">Siso
 
 Once you've completed a General Makerspace Induction, you can complete a 3D Printing Badge and/or a Laser Cutting Badge.
 
-[Find an induction](https://siso.curtin.edu.au/sodbe//){: .btn .btn-primary }
+[Find an induction](https://siso.curtin.edu.au/sodbe/){: .btn .btn-primary }
 
 
 
