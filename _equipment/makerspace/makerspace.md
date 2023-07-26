@@ -45,33 +45,13 @@ accordion:
 
   - title: What do I need to know to use the 3D Printers?
     content: |
-      The DBE Makerspace has 21 Ultimaker 3D printers with 1 being larger than the others.
-
-      <strong>Software:</strong> Cura
-
-      <strong>File Type:</strong> STL
-
-      <strong>Printing Material:</strong> PLA
-
-      <strong>Build Volume Regular:</strong> 230 x 190 x 200 mm
-
-      <strong>Build Volume Large:</strong> 330 x 240 x 300 mm
-      
-      Printing can be done overnight. An induction is required before use.
+      Learn to use the 3D printers by completing a 3D Printing Badge. You can sign up for one <a href="https://siso.curtin.edu.au/sodbe">here</a> under workshops after completing a General Makerspace Induction. <a href="fabrication/ultimaker.md">Find out more about 3D printing.</a>
 
   - title: What do I need to know to use the laser cutters
     content: |
-      The DBE Makerspace has 10 Emblaser 2
+      Learn to use the Emblaser 2 laser cutters by completing a Laser Cutting Badge. You can sign up for one <a href="https://siso.curtin.edu.au/sodbe">here</a> under workshops after completing a General Makerspace Induction. 
 
-      <strong>Software:</strong> LightBurn
-
-      <strong>File type:</strong> AI, PDF, SVG, DFX, PLT, PNG, JPG, GIF, BMP (preferred)
-
-      <strong>Material:</strong> Cloth, cardboard, paper, leather, wood, and more
-
-      <strong>Material Capacity:</strong> 500 x 300 x 50mm
-    
-      Laser cutting cannot be done overnight and require supervision by the user at all times. A technician is also required to be in line of sight at all times. An induction is required before use.
+      To use the Trotec SP500 (large format) laser cutter with a technician, only a General Makerspace Induction is required. <a href="fabrication/Laser-Cutter.md">Find out more about laser cutting.</a>
 ---
 
 # 418 Makerspace
@@ -94,6 +74,8 @@ accordion:
 
 The DBE Makerspace is a creative learning space for students across Design and Built Environment located within B418. The tech team support students and staff with technical resources, areas, and equipment, including technical supervision and instruction, operation, and maintenance. We ensure everyone receives safety inductions, instruction, and guidance.
 
+To get started, sign up for an induction [here]("https://siso.curtin.edu.au/sodbe"). Inductions are available under "Workshops" and run at the beginning of each semester. 
+
 
 ![Makerspace](/assets/images/makerspace_default_img.jpg)   
 {: .mb-6 }
@@ -113,7 +95,7 @@ Find some of our most common questions for the DBE Makerspace here.
 ## Induction Timetable
 {: .mt-3 .mb-3}
 
-To book an induction listed below, please make an appointment through Siso. You can do so by clicking ther button below:
+To book an induction listed below, please make an appointment through Siso. You can do so by clicking the button below:
 
 [Make Booking](https://siso.curtin.edu.au/sodbe//){: .btn .btn-primary }
 
