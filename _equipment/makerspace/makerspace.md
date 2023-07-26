@@ -23,7 +23,7 @@ accordion:
 
   - title: When is the DBE Makerspace open?
     content: |
-      Our usual operatiing hours are Monday to Friday, 8am – 4pm all year round (excluding holidays).
+      Our usual operating hours are Monday to Friday, 8am – 4pm all year round (excluding holidays).
 
       Staff may also be available later than 4pm if circumstances permit. 
 
@@ -47,7 +47,7 @@ accordion:
     content: |
       Learn to use the 3D printers by completing a 3D Printing Badge. You can sign up for one <a href="https://siso.curtin.edu.au/sodbe">here</a> under workshops after completing a General Makerspace Induction. <a href="fabrication/ultimaker.md">Find out more about 3D printing.</a>
 
-  - title: What do I need to know to use the laser cutters
+  - title: What do I need to know to use the laser cutters?
     content: |
       Learn to use the Emblaser 2 laser cutters by completing a Laser Cutting Badge. You can sign up for one <a href="https://siso.curtin.edu.au/sodbe">here</a> under workshops after completing a General Makerspace Induction. 
 
