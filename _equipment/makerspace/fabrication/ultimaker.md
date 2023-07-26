@@ -59,9 +59,9 @@ halfgrid:
 
 | Materials | Description | Available Colours |
 |:-|:-|:-|
-| [PLA (Polylactic acid)](https://support.ultimaker.com/hc/article_attachments/4777362374684/Ultimaker-PLA-TDS-v5.00.pdf) | Good for most 3D print projects | White, pearl white, black, transparent, silver, grey, blue, green, teal, purple, red, orange, yellow |
-| [Tough PLA](https://marketplace.ultimaker.com/app/cura/materials/UltimakerPackages/UltimakerTPLA) | Similar strength to ABS and heat resistant to 58°C. | White & black. |
-| [PETG](https://marketplace.ultimaker.com/app/cura/materials/UltimakerPackages/UltimakerPETG) | By request. Heat Resistant up to 76°C | |
+| [PLA (Polylactic acid)](https://ultimaker.my.salesforce.com/sfc/p/#j0000000HOnW/a/5b000005DOwb/tXMchH9fknixcHLxvIy6BJZmQs8_XAVpii2p2uFmwwQ "Ultimaker PLA Safety Data Sheet") | Good for most 3D print projects | White, pearl white, black, transparent, silver, grey, blue, green, teal, purple, red, orange, yellow |
+| [Tough PLA](https://marketplace.ultimaker.com/app/cura/materials/UltimakerPackages/UltimakerTPLA) | Similar strength to ABS and heat resistant to 58°C. | White, black |
+| TPU | Flexible, chemical-resistant filament | Red |
 
 ***
 
