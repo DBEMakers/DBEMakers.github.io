@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oculus Quest 2
-permalink: /quest-2/
+permalink: /makerspace/multimedia/quest-2/
 parent: Multimedia
 grand_parent: Makerspace 418
 ---

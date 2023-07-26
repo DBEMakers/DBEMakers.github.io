@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VIVE Pro 2
-permalink: /vive-pro-2/
+permalink: /makerspace/multimedia/vive-pro-2/
 parent: Multimedia
 grand_parent: Makerspace 418
 ---
