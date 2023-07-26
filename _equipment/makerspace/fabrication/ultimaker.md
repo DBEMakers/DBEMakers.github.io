@@ -4,7 +4,6 @@ title: Ultimaker 3D Printer
 permalink: /ultimaker/
 parent: Fabrication
 grand_parent: Makerspace 418
-
 card:
   - title: Ultimaker S2
     image: /assets/images/equipment/S2.jpg
@@ -12,26 +11,26 @@ card:
     image: /assets/images/equipment/S3.jpg
   - title: Ultimaker S5
     image: /assets/images/equipment/S5.jpg
-
-halfgrid: 
-    - content1: |
-        <h3> Check list </h3>
-        <ol type="1">
-           <li>Check for Non-Manifold Errors </li>
-           <li>Check for Naked Edges</li>
-           <li>Fill/ Cap Holes</li>
-           <li>Unify Normals</li>
-           <li>Convert your model to a Mesh</li>
-           <li>Export your model as a .stl file</li>
-        </ol>  
-        
-      content2: <img src="/assets/images/equipment/ccc.JPG" alt="settings to alter" style="display:block;margin-left:auto;margin-right:auto;">
-
+halfgrid:
+  - content1: |
+      <h3> Check list </h3>
+      <ol type="1">
+         <li>Check for Non-Manifold Errors </li>
+         <li>Check for Naked Edges</li>
+         <li>Fill/ Cap Holes</li>
+         <li>Unify Normals</li>
+         <li>Convert your model to a Mesh</li>
+         <li>Export your model as a .stl file</li>
+      </ol>  
+    content2: >-
+      <img src="/assets/images/equipment/ccc.JPG" alt="settings to alter"
+      style="display:block;margin-left:auto;margin-right:auto;">
 ---
 
 # Ultimaker 3D Printers
 
----
+***
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -49,33 +48,36 @@ halfgrid:
 
 | Quantity | Risk Assessment |
 |:-|:-|
-| 22 | None, but you must have completed a [Makerspace induction.](https://siso.curtin.edu.au/sodbe//) | 
+| 22 | None, but you must have completed a [Makerspace induction.](https://siso.curtin.edu.au/sodbe//) |
 
-[Email DBE Makerspace](mailto: dbe-technicalsupport@curtin.edu.au){: .btn .btn-primary }
+\[Email DBE Makerspace]\(mailto: dbe-technicalsupport@curtin.edu.au){: .btn .btn-primary }
 {: .mb-7 .mt-7}
 
----
+***
+
 ## Materials Available
 
 | Materials | Description | Available Colours |
 |:-|:-|:-|
-| [PLA (Polylastic acid plastic)](https://support.ultimaker.com/hc/article_attachments/4777362374684/Ultimaker-PLA-TDS-v5.00.pdf) | Good for most 3D print projects | Red, yellow, orange, white, black, clear, silver, blue & green | 
-| [Tough PLA](https://marketplace.ultimaker.com/app/cura/materials/UltimakerPackages/UltimakerTPLA) | Similar strength to ABS and heat resistant to 58°C. | White & black. | 
+| [PLA (Polylactic acid)](https://support.ultimaker.com/hc/article_attachments/4777362374684/Ultimaker-PLA-TDS-v5.00.pdf) | Good for most 3D print projects | White, pearl white, black, transparent, silver, grey, blue, green, teal, purple, red, orange, yellow |
+| [Tough PLA](https://marketplace.ultimaker.com/app/cura/materials/UltimakerPackages/UltimakerTPLA) | Similar strength to ABS and heat resistant to 58°C. | White & black. |
 | [PETG](https://marketplace.ultimaker.com/app/cura/materials/UltimakerPackages/UltimakerPETG) | By request. Heat Resistant up to 76°C | |
 
----
+***
+
 {: .mt-7}
 
 ## Printer Information
 
-|                                       | Ultimaker S5              | Ultimaker S3              | Ultimaker S2+               |
+|                                       | Ultimaker S5              | Ultimaker S3              | Ultimaker 2+ Connect               |
 |:--------------------------------------|:--------------------------|:--------------------------|:----------------------------|
-| **Build volume (X,Y,Z)**              | 330 x 240 x 300mm         | 230 x 190 x 200mm         | 223 x 220 x 205mm           | 
+| **Build volume (X,Y,Z)**              | 330 x 240 x 300mm         | 230 x 190 x 200mm         | 223 x 220 x 205mm           |
 | **No. of Extruders**                  | DUAL EXTRUSION PRINT HEAD | DUAL EXTRUSION PRINT HEAD | SINGLE EXTRUSION PRINT HEAD |
 | **Resolution**                        | 0.06 – 0.3mm              | 0.06 – 0.3mm              | 0.06 – 0.2mm                |
 | **No. of Printers**                   | 1                         | 11                        | 10                          |
 
----
+***
+
 {: .mt-7}
 
 ## Setting up your Files
@@ -91,31 +93,30 @@ Common issues with 3D printing occur due to bad geometry, please make sure you c
 | **Non Unified Faces**      | When an mesh's faces (normals) are not all facing in the correct direction.  | Doing this cases printing software to not understand what is inside or outside the model leading to unexpected results. | Check that your face's normals are all facing the correct direction. |
 | **Support Issues**      | When there are not enough support structures to print parts of an object in mid-air. | Without supports, your object may fail to print and break apart. | Supports can be added during the printing process but it is also recommended you support anything over a 45 degree angle or to print your object in multiple pieces you glue after printing. |
 
----
+***
 
 {% include halfgrid.html %}
 {: .mb-6}
 
----
+***
 
-![Non-Manifold / Bad Geometry](/assets/images/equipment/non-manifold (1).JPG)  
+!\[Non-Manifold / Bad Geometry]\(/assets/images/equipment/non-manifold (1).JPG)\
 {: .mt-6}
 
---- 
+***
+
 ## Documentation
 
-[STL Files Preparation](https://www.3dnest.in/blog/how-to-create-3dprintready-designs){: .btn .btn-primary } [FDM Design guide](https://cdn2.hubspot.net/hubfs/340051/Design_Guides/Xometry_DesignGuide_FDM.pdf){: .btn .btn-primary } [Printing Troubleshooting](https://www.simplify3d.com/resources/print-quality-troubleshooting/){: .btn .btn-primary }
-<br>
+[STL Files Preparation](https://www.3dnest.in/blog/how-to-create-3dprintready-designs){: .btn .btn-primary } [FDM Design guide](https://cdn2.hubspot.net/hubfs/340051/Design_Guides/Xometry_DesignGuide_FDM.pdf){: .btn .btn-primary } [Printing Troubleshooting](https://www.simplify3d.com/resources/print-quality-troubleshooting/){: .btn .btn-primary } <br>
 
 ### Setting up your model in Rhino
+
 <iframe width="100%" height="415" src="https://www.youtube-nocookie.com/embed/o0rJlxwbr4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Constraints
 
-#### Constraints  
 <iframe width="100%" height="415" src="https://www.youtube-nocookie.com/embed/xiIOoX714Qs?start=646" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Best practices
+
 <iframe width="100%" height="415" src="https://www.youtube-nocookie.com/embed/xiIOoX714Qs?start=926" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-
