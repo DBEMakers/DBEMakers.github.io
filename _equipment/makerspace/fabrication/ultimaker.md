@@ -48,7 +48,7 @@ halfgrid:
 
 The DBE Makerspace contains 22 3D printers. You can also access 3D printers in the 202 Digital Modelling Workshop.
 
-\[Email DBE Makerspace]\(mailto: dbe-technicalsupport@curtin.edu.au){: .btn .btn-primary }
+[Email DBE Makerspace](mailto:DBEMakerspace@curtin.edu.au){: .btn .btn-primary }
 {: .mb-7 .mt-7}
 
 ***
