@@ -20,6 +20,54 @@ export default defineConfig({
   },
 schema: {
   collections: [
+    //test main pages
+    {
+      name: "Main pages",
+      label: "Main pages",
+      path: "/",
+      match: {
+        include:'*',
+      },
+      //  Named 'md' and not 'markdown' as that is a depracated with Tina.io. Using 'markdown' breaks some of the features such as adding content to the body
+      format: "md",
+      // As Jekyll posts require a date at the beginning, this code automatically adds it.
+      defaultItem: () => {
+        return {
+          layout: 'page',
+        }
+      },
+      ui: {
+        filename: {
+          readonly: false,
+          slugify: values => {
+            const date = new Date();
+            const day = date.getDate();
+            const month = date.getMonth() + 1;
+            const year = date.getFullYear();
+      
+            let currentDate = `${year}-${month}-${day}`;
+      
+            return `${currentDate}-${values?.title?.toLowerCase().replace(/ /g, '-')}`
+          },
+        },
+      },
+      fields: [
+        {
+          type: "string",
+          name: "title",
+          label: "Title",
+          isTitle: true,
+          required: true,
+        },
+        {
+          type: "rich-text",
+          name: "body",
+          label: "Body",
+          isBody: true,
+        },
+      ],
+    },
+    //end test
     {
       name: "exhibitions",
       label: "Exhibitions",
