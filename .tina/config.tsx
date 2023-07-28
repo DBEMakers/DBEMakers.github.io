@@ -24,7 +24,7 @@ schema: {
     {
       name: "main pages",
       label: "Main pages",
-      path: "",
+      path: "./",
       //  Named 'md' and not 'markdown' as that is a depracated with Tina.io. Using 'markdown' breaks some of the features such as adding content to the body
       format: "md",
       // As Jekyll posts require a date at the beginning, this code automatically adds it.
