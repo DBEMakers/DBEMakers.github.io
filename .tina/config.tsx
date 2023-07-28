@@ -69,6 +69,8 @@ schema: {
       ],
     },
     //end test
+
+    //exhibitions
     {
       name: "exhibitions",
       label: "Exhibitions",
@@ -151,8 +153,8 @@ schema: {
     // Makerspace
     {
       name: "makerspace_equipment",
-      label: "Makerspace Equipment",
-      path: "_equipment/makerspace",
+      label: "Makerspace pages",
+      path: "makerspace",
       format: "md",
       defaultItem: () => {
         return {
@@ -190,7 +192,7 @@ schema: {
           type: "string",
           name: "parent",
           label: "Sub Category",
-          required: true,
+          required: false,
           options: [
             {
               value: "Fabrication",
@@ -199,10 +201,6 @@ schema: {
             {
               value: "Multimedia",
               label: "Multimedia"
-            },
-            {
-              value: "Other",
-              label: "Other"
             },
           ],
         },
