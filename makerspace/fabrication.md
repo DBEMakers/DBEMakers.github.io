@@ -3,7 +3,7 @@
 layout: page  
 title: Fabrication 
 permalink: /fabrication/  
-parent: Makerspace 418
+parent: 418 Makerspace
 has_children: true
 
 ---

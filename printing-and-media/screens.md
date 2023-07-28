@@ -31,7 +31,7 @@ Would you like to display content across B418? Now you can! Be it staff events, 
         <li>Collaboration Hub</li>
         <li>Blue Carpet Level 2</li>
         <li>Blue Carpet Level 3</li>
-        <li>Plateau</li>
+        <li>Lower Plateau</li>
       </ul>
     </td>
     <td>

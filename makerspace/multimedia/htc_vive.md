@@ -3,7 +3,7 @@ layout: page
 title: VIVE Pro 2
 permalink: /makerspace/multimedia/vive-pro-2/
 parent: Multimedia
-grand_parent: Makerspace 418
+grand_parent: 418 Makerspace
 ---
 
 # HTC VIVE Pro 2 - Virtual Headset

@@ -1,6 +1,6 @@
 ---
 layout: page
-grand_parent: Makerspace 418
+grand_parent: 418 Makerspace
 title: Laser Cutting
 parent: Fabrication
 halfgrid:

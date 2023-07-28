@@ -3,7 +3,7 @@ layout: page
 title: 3D Printing
 # permalink: /ultimaker/
 parent: Fabrication
-grand_parent: Makerspace 418
+grand_parent: 418 Makerspace
 card:
   - title: Ultimaker 2+ Connect
     image: /assets/images/equipment/S2.jpg

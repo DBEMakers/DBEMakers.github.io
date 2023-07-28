@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Makerspace 418
+title: 418 Makerspace
 permalink: /makerspace/
 nav_order: 3
 has_children: true

@@ -4,7 +4,7 @@ layout: page
 title: Motion Capture Suit  
 permalink: /makerspace/multimedia/mocap/  
 parent: Multimedia
-grand_parent: Makerspace 418
+grand_parent: 418 Makerspace
 
 ---
 

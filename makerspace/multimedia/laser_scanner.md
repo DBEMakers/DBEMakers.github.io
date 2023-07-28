@@ -4,7 +4,7 @@ layout: page
 title: Artec Leo Laser Scanner 
 permalink: /makerspace/multimedia/laser_scanner/  
 parent: Multimedia
-grand_parent: Makerspace 418
+grand_parent: 418 Makerspace
 
 ---
 
