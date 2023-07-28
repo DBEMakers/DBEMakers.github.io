@@ -3,7 +3,7 @@
 layout: page  
 title: Printing
 permalink: /printing/  
-parent: printing-and-media
+parent: Printing and Media
 
 ---
 

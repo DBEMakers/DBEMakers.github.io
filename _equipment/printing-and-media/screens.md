@@ -2,7 +2,7 @@
 layout: page
 title: Digital Screens
 permalink: /screens/
-parent: printing-and-media
+parent: Printing and Media
 ---
 
 # Digital Screens
