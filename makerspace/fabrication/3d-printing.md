@@ -27,7 +27,7 @@ halfgrid:
       style="display:block;margin-left:auto;margin-right:auto;">
 ---
 
-# Ultimaker 3D Printers
+# 3D Printing in the Makerspace
 
 ***
 
@@ -55,12 +55,12 @@ The DBE Makerspace contains 22 3D printers. You can also access 3D printers in t
 
 ## Materials Available
 
-| Materials | Description | Available Colours |
+| Material (click to view SDS) | Description | Available Colours |
 |:-|:-|:-|
-| [PLA (Polylactic acid)](https://ultimaker.my.salesforce.com/sfc/p/#j0000000HOnW/a/5b000005DOwb/tXMchH9fknixcHLxvIy6BJZmQs8_XAVpii2p2uFmwwQ "Ultimaker PLA Safety Data Sheet") | Good for most 3D print projects. Easy to print, with relatively high strength, low thermal expansion and good adhesion, but low heat resistance | White, pearl white, black, transparent, silver, grey, blue, green, teal, purple, red, orange, yellow |
+| [PLA (polylactic acid)](https://ultimaker.my.salesforce.com/sfc/p/#j0000000HOnW/a/5b000005DOwb/tXMchH9fknixcHLxvIy6BJZmQs8_XAVpii2p2uFmwwQ "Ultimaker PLA Safety Data Sheet") | Good for most 3D print projects. Easy to print, with relatively high strength, low thermal expansion and good adhesion, but low heat resistance | White, pearl white, black, transparent, silver, grey, blue, green, teal, purple, red, orange, yellow |
 | [Tough PLA](https://ultimaker.my.salesforce.com/sfc/p/#j0000000HOnW/a/5b000005DOwv/kna_iV6QzCrpYsOS16Zk.u34DHjdCIVIT4vrElSbSYY "Ultimaker Tough PLA Safety Data Sheet") | Similar strength to ABS and heat-resistant to 58°C | White, black |
 | [TPU95A (thermoplastic polyurethane)](https://ultimaker.my.salesforce.com/sfc/p/#j0000000HOnW/a/5b000005DP0N/0XXi_RB8_mENixIzjBHMxq.pBuznUxWXzkBM3LD0.wM "Ultimaker TPU95A SDS") | Flexible, elastic, chemical-resistant filament | Red |
-| [PVA](https://ultimaker.my.salesforce.com/sfc/p/#j0000000HOnW/a/5b000005DP4Q/L3eW04E4MQJBHPV7EbThHsqtGTHNOuZhpltyTQVaDng "Ultimaker PVA SDS") | Water-soluble support material, for specialised applications only | Natural |
+| [PVA (polyvinyl alcohol)](https://ultimaker.my.salesforce.com/sfc/p/#j0000000HOnW/a/5b000005DP4Q/L3eW04E4MQJBHPV7EbThHsqtGTHNOuZhpltyTQVaDng "Ultimaker PVA SDS") | Water-soluble support material, for specialised applications only | Natural |
 
 ***
 
