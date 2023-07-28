@@ -155,6 +155,9 @@ schema: {
       name: "makerspace_equipment",
       label: "Makerspace pages",
       path: "makerspace",
+      match: {
+        include: '*',
+      },
       format: "md",
       defaultItem: () => {
         return {
