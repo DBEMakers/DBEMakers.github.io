@@ -2,8 +2,7 @@
 layout: page
 title: Digital Screens
 permalink: /screens/
-parent: Other
-grand_parent: Makerspace 418
+parent: printing-and-media
 ---
 
 # Digital Screens
