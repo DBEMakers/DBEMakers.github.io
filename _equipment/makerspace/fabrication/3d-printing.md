@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ultimaker 3D Printer
+title: 3D Printing
 # permalink: /ultimaker/
 parent: Fabrication
 grand_parent: Makerspace 418

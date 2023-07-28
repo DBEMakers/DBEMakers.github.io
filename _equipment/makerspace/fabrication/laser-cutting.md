@@ -1,7 +1,7 @@
 ---
 layout: page
 grand_parent: Makerspace 418
-title: Laser Cutter
+title: Laser Cutting
 parent: Fabrication
 halfgrid:
   - content1: >-
