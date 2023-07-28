@@ -22,7 +22,7 @@ schema: {
   collections: [
     //test main pages
     {
-      name: "Main pages",
+      name: "mainpage",
       label: "Main pages",
       path: "/",
       match: {
