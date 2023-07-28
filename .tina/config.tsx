@@ -20,6 +20,7 @@ export default defineConfig({
   },
 schema: {
   collections: [
+    
     //test collection: top-level pages
     {
       name: "main pages",
