@@ -2,7 +2,7 @@
 layout: page
 title: Workshop 202
 permalink: /workshop/
-nav_order: 5
+nav_order: 7
 has_children: true
 nav_exclude: true
 ---

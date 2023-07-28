@@ -2,7 +2,7 @@
 layout: page
 title: Makerspace 418
 permalink: /makerspace/
-nav_order: 4
+nav_order: 3
 has_children: true
 
       # Accordion Structure
