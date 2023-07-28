@@ -27,6 +27,7 @@ schema: {
       path: "/",
       match: {
         include:'*',
+        exclude:'markdown kitchen sink',
       },
       //  Named 'md' and not 'markdown' as that is a depracated with Tina.io. Using 'markdown' breaks some of the features such as adding content to the body
       format: "md",
